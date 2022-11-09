@@ -18,7 +18,7 @@ Notice how when I did my last <a href="https://github.com/AdreReyes/Jenkins_depl
 - Modify "test_app.py" if you wish to specify different unit tests for your application
 - Ensure that the Terraform destroy stage is included in your Jenkinsfile and is in position BEFORE the apply stage to destroy your resources
 
-# Tools & packages utilized
+## Tools & packages utilized
 <p> - Terraform </p>
 <p> - Jenkins Server </p>
     
