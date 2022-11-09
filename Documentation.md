@@ -107,7 +107,9 @@ The build was successful the third time. Errors will be reported at the end of t
 
 <img width="321" alt="image" src="https://user-images.githubusercontent.com/108366142/200038418-fd3c7270-816f-4cd6-bd9f-2f8f2c7ea4bd.png">
   
-The resources were created and now its time to destroy them. 
+I double check to make sure the resources were created and now its time to destroy them. 
+
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/108366142/200911357-ae616eef-6123-4d17-bb82-cc963a7eb34e.png">
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/108366142/200039047-172ca022-aae7-4e9a-bb35-20963982c061.png">
 
