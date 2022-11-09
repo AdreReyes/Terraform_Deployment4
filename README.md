@@ -17,7 +17,11 @@ Notice how when I did my last <a href="https://github.com/AdreReyes/Jenkins_depl
 ## Checklist
 - Modify "test_app.py" if you wish to specify different unit tests for your application
 - Ensure that the Terraform destroy stage is included in your Jenkinsfile and is in position BEFORE the apply stage to destroy your resources
-  
+
+# Tools & packages utilized
+<p> - Terraform </p>
+<p> - Jenkins Server </p>
+    
 ## Link to Original Repo
 <a href="https://github.com/kura-labs-org/kuralabs_deployment_4"> Original repo</a>
 
