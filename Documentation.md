@@ -15,7 +15,11 @@
 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/108366142/199890105-56db46c4-8e4f-4e58-bd67-d841ead78985.png">
 
-*	I ran the command <sudo systemctl status Jenkins> to check if my Jenkins server is running. 
+*	I ran the command below to check if my Jenkins server is running. 
+
+```
+sudo systemctl status Jenkins
+```
   
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/108366142/199971507-f4cb567a-8eb7-41bf-87a1-043eb889160a.png">
 
