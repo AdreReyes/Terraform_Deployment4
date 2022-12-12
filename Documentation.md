@@ -128,7 +128,7 @@ I double check to make sure the resources were created and now its time to destr
   * <a href="https://github.com/AdreReyes/kuralabs_deployment_4/blob/main/intTerraform/deploy.sh">deploy.sh</a> = file of dependencies and packages that will be installed to run Flask app on Gunicorn via port 8000 
   * <a href="https://github.com/AdreReyes/kuralabs_deployment_4/blob/main/intTerraform/main.tf">main.tf</a> = the configurations for Terraform to create resources in AWS 
 
-* The resources I created via Terrafom was 1 VPC, an internet gateway, custom route table, and 1 public subnet that has 1 EC2 instance within 1 avaialability zone. My EC2 called “Webserver001” was created via the intTerraform main.tf file which is where I will use its public IP to check if the Flask application is running on port 8000.
+* The resources I created via Terrafom was 2 VPCs, an internet gateway, custom route table, and 2 public subnet that has 1 EC2 instance within both avaialability zones. My EC2 called “Webserver001” was created via the intTerraform main.tf file which is where I will use its public IP to check if the Flask application is running on port 8000.
   
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/108366142/200045679-01efd03f-ba17-429d-98a1-9f1c5c3267f5.png">
   
